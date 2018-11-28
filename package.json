@@ -1,0 +1,16 @@
+{
+  "name": "bda2018",
+  "version": "1.0.0",
+  "description": "Just a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  }
+}
